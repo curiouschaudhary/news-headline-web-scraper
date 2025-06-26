@@ -25,6 +25,10 @@ To collect top headlines from a news website automatically and filter them based
 - Logs scraping activity to `scraper.log`.
 - Custom URL support via command-line argument.
 
+  # Screenshot
+  ![screenshot](https://github.com/user-attachments/assets/d996ee56-2737-4fa7-9e72-5f9b1918a5b9)
+
+
 ---
 
 ## 🚀 How to Run
@@ -32,9 +36,4 @@ To collect top headlines from a news website automatically and filter them based
 ### 📌 Requirements
 ```bash
 pip install requests beautifulsoup4
-
----
-
-## screenshot
-![screenshot](https://github.com/user-attachments/assets/ab8f853b-b085-4d1f-b233-8611098bda73)
 
